@@ -8,3 +8,6 @@ actividad 3 tp2
 edcicion despues del git checkout main el archivo README.md de nuevo, añadiendo una línea diferente
 git add README.mdgit commit -m "Resolved merge conflict"
  
+
+"LINEA DEL PASO 4"
+
