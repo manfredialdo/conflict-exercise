@@ -6,5 +6,5 @@ actividad 3 tp2
  este es tercerB branch
  
 edcicion despues del git checkout main el archivo README.md de nuevo, añadiendo una línea diferente
-git add README.md
+git add README.mdgit commit -m "Resolved merge conflict"
  
