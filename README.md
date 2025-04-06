@@ -1,13 +1,15 @@
 # conflict-exercise
 actividad 3 tp2
- Este es un cambio en la main branch
- Este es un segundo cambio en la branch
- este es el tercer branch
- este es tercerB branch
- 
-edcicion despues del git checkout main el archivo README.md de nuevo, añadiendo una línea diferente
-git add README.mdgit commit -m "Resolved merge conflict"
- 
+ PASO3 : Paso 3: Crear una nueva rama y editar un archivo
+• Crea una nueva rama llamada feature-branch:
+git checkout -b feature-branch
+• Abre el archivo README.md en un editor de texto y añade una línea nueva,
+por ejemplo:
 
-"LINEA DEL PASO 4"
+"Este es un cambio en la feature branch."
 
+
+
+
+ 
+>>>>>>> feature-branch
